@@ -1,0 +1,525 @@
+﻿Function|Category|Subcategory|Category Title|Subcategory Title|Control|Control Family|Publication|Core|Privacy Baseline|Security Control Baseline - Low|Security Control Baseline - Moderate|Security Control Baseline - High
+DETECT (DE)|DE.AE|DE.AE-1|Anomalies and Events|A baseline of network operations and expected data flows for users and systems is established and managed|AC-04|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-1|Anomalies and Events|A baseline of network operations and expected data flows for users and systems is established and managed|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-1|Anomalies and Events|A baseline of network operations and expected data flows for users and systems is established and managed|CA-03|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-1|Anomalies and Events|A baseline of network operations and expected data flows for users and systems is established and managed|CM-02|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-2|Anomalies and Events|Detected events are analyzed to understand attack targets and methods|AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-2|Anomalies and Events|Detected events are analyzed to understand attack targets and methods|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-2|Anomalies and Events|Detected events are analyzed to understand attack targets and methods|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-2|Anomalies and Events|Detected events are analyzed to understand attack targets and methods|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|IR-05|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-3|Anomalies and Events|Event data are aggregated and correlated from multiple sources and sensors|SI-06|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||Yes
+DETECT (DE)|DE.AE|DE.AE-4|Anomalies and Events|Impact of events is determined|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-4|Anomalies and Events|Impact of events is determined|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-4|Anomalies and Events|Impact of events is determined|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-4|Anomalies and Events|Impact of events is determined|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-5|Anomalies and Events|Incident alert thresholds are established|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-5|Anomalies and Events|Incident alert thresholds are established|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.AE|DE.AE-5|Anomalies and Events|Incident alert thresholds are established|IR-05|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|AU-12|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|AC-02|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|SC-07|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|SC-05|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-1|Security Continuous Monitoring|The network is monitored to detect potential cybersecurity events|CM-03|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-2|Security Continuous Monitoring|The physical environment is monitored to detect potential cybersecurity events|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-2|Security Continuous Monitoring|The physical environment is monitored to detect potential cybersecurity events|PE-03|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-2|Security Continuous Monitoring|The physical environment is monitored to detect potential cybersecurity events|PE-06|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-2|Security Continuous Monitoring|The physical environment is monitored to detect potential cybersecurity events|PE-20|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.CM|DE.CM-3|Security Continuous Monitoring|Personnel activity is monitored to detect potential cybersecurity events|AU-12|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-3|Security Continuous Monitoring|Personnel activity is monitored to detect potential cybersecurity events|AU-13|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.CM|DE.CM-3|Security Continuous Monitoring|Personnel activity is monitored to detect potential cybersecurity events|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-3|Security Continuous Monitoring|Personnel activity is monitored to detect potential cybersecurity events|AC-02|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-3|Security Continuous Monitoring|Personnel activity is monitored to detect potential cybersecurity events|CM-10|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-3|Security Continuous Monitoring|Personnel activity is monitored to detect potential cybersecurity events|CM-11|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-4|Security Continuous Monitoring|Malicious code is detected|SI-03|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-4|Security Continuous Monitoring|Malicious code is detected|SI-08|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-5|Security Continuous Monitoring|Unauthorized mobile code is detected|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-5|Security Continuous Monitoring|Unauthorized mobile code is detected|SC-44|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.CM|DE.CM-5|Security Continuous Monitoring|Unauthorized mobile code is detected|SC-18|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-5|Security Continuous Monitoring|Unauthorized mobile code is detected|IR-10|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.CM|DE.CM-6|Security Continuous Monitoring|External service provider activity is monitored to detect potential cybersecurity events|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-6|Security Continuous Monitoring|External service provider activity is monitored to detect potential cybersecurity events|SA-09|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-6|Security Continuous Monitoring|External service provider activity is monitored to detect potential cybersecurity events|PS-07|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-6|Security Continuous Monitoring|External service provider activity is monitored to detect potential cybersecurity events|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-6|Security Continuous Monitoring|External service provider activity is monitored to detect potential cybersecurity events|SA-04|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|AU-12|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|CM-08|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|PE-03|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|PE-06|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|CM-03|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+DETECT (DE)|DE.CM|DE.CM-7|Security Continuous Monitoring|Monitoring for unauthorized personnel, connections, devices, and software is performed|PE-20|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.CM|DE.CM-8|Security Continuous Monitoring|Vulnerability scans are performed|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-1|Detection Processes|Roles and responsibilities for detection are well defined to ensure accountability|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-1|Detection Processes|Roles and responsibilities for detection are well defined to ensure accountability|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-1|Detection Processes|Roles and responsibilities for detection are well defined to ensure accountability|PM-14|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|PM-14|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|AC-25|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|SA-18|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+DETECT (DE)|DE.DP|DE.DP-2|Detection Processes|Detection activities comply with all applicable requirements|SI-06|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||Yes
+DETECT (DE)|DE.DP|DE.DP-3|Detection Processes|Detection processes are tested|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-3|Detection Processes|Detection processes are tested|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-3|Detection Processes|Detection processes are tested|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-3|Detection Processes|Detection processes are tested|PE-03|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-3|Detection Processes|Detection processes are tested|PM-14|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-3|Detection Processes|Detection processes are tested|SI-03|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-4|Detection Processes|Event detection information is communicated to appropriate parties|AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-4|Detection Processes|Event detection information is communicated to appropriate parties|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-4|Detection Processes|Event detection information is communicated to appropriate parties|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-4|Detection Processes|Event detection information is communicated to appropriate parties|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-4|Detection Processes|Event detection information is communicated to appropriate parties|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-5|Detection Processes|Detection processes are continuously improved|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-5|Detection Processes|Detection processes are continuously improved|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-5|Detection Processes|Detection processes are continuously improved|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-5|Detection Processes|Detection processes are continuously improved|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-5|Detection Processes|Detection processes are continuously improved|PL-02|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+DETECT (DE)|DE.DP|DE.DP-5|Detection Processes|Detection processes are continuously improved|PM-14|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-1|Asset Management|Physical devices and systems within the organization are inventoried|CM-08|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-1|Asset Management|Physical devices and systems within the organization are inventoried|PM-05|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-2|Asset Management|Software platforms and applications within the organization are inventoried|CM-08|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-2|Asset Management|Software platforms and applications within the organization are inventoried|PM-05|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-3|Asset Management|Organizational communication and data flows are mapped|AC-04|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-3|Asset Management|Organizational communication and data flows are mapped|CA-03|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-3|Asset Management|Organizational communication and data flows are mapped|CA-09|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-3|Asset Management|Organizational communication and data flows are mapped|PL-08|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-4|Asset Management|External information systems are catalogued|AC-20|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-4|Asset Management|External information systems are catalogued|SA-09|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-5|Asset Management|Resources (e.g., hardware, devices, data, and software) are prioritized based on their classification, criticality, and business value |CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-5|Asset Management|Resources (e.g., hardware, devices, data, and software) are prioritized based on their classification, criticality, and business value |RA-02|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-5|Asset Management|Resources (e.g., hardware, devices, data, and software) are prioritized based on their classification, criticality, and business value |SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.AM|ID.AM-5|Asset Management|Resources (e.g., hardware, devices, data, and software) are prioritized based on their classification, criticality, and business value |SC-06|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.AM|ID.AM-6|Asset Management|Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-6|Asset Management|Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established|PS-07|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.AM|ID.AM-6|Asset Management|Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established|PM-11|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-1|Business Environment|The organization’s role in the supply chain is identified and communicated|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-1|Business Environment|The organization’s role in the supply chain is identified and communicated|SA-12|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.BE|ID.BE-2|Business Environment|The organization’s place in critical infrastructure and its industry sector is identified and communicated|PM-08|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-3|Business Environment|Priorities for organizational mission, objectives, and activities are established and communicated|SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.BE|ID.BE-3|Business Environment|Priorities for organizational mission, objectives, and activities are established and communicated|PM-11|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-4|Business Environment|Dependencies and critical functions for delivery of critical services are established|SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.BE|ID.BE-4|Business Environment|Dependencies and critical functions for delivery of critical services are established|PM-08|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-4|Business Environment|Dependencies and critical functions for delivery of critical services are established|CP-08|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-4|Business Environment|Dependencies and critical functions for delivery of critical services are established|PE-09|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-4|Business Environment|Dependencies and critical functions for delivery of critical services are established|PE-11|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-5|Business Environment|Resilience requirements to support delivery of critical services are established|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.BE|ID.BE-5|Business Environment|Resilience requirements to support delivery of critical services are established|SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.BE|ID.BE-5|Business Environment|Resilience requirements to support delivery of critical services are established|CP-11|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.BE|ID.BE-5|Business Environment|Resilience requirements to support delivery of critical services are established|SA-13|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|AC-01|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|AT-01|Awareness and Training|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|AU-01|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|CA-01|SECURITY ASSESSMENT AND AUTHORIZATION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|CM-01|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|CP-01|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|IA-01|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|IR-01|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|MA-01|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|MP-01|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|PL-01|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|PL-04|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|PM-01|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|PS-01|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|RA-01|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|SA-01|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|SC-01|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|SI-01|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-1|Governance|Organizational information security policy is established|PE-01|PHYSICAL AND ENVIRONMENT PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-2|Governance|Information security roles & responsibilities are coordinated and aligned with internal roles and external partners|PM-01|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-2|Governance|Information security roles & responsibilities are coordinated and aligned with internal roles and external partners|PS-07|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-2|Governance|Information security roles & responsibilities are coordinated and aligned with internal roles and external partners|PM-02|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|AC-01|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|AT-01|Awareness and Training|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|AU-01|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|CA-01|SECURITY ASSESSMENT AND AUTHORIZATION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|CM-01|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|CP-01|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|IA-01|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|IR-01|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|MA-01|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|MP-01|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|PE-01|PHYSICAL AND ENVIRONMENT PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|PL-01|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|PS-01|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|RA-01|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|SA-01|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|SC-01|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-3|Governance|Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed|SI-01|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|PM-11|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|PM-03|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|PM-07|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|PM-10|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|SA-02|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.GV|ID.GV-4|Governance|Governance and risk management processes address cybersecurity risks|CA-06|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|CA-08|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity||||Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|SA-05|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|SA-11|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|SI-02|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|SI-05|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-1|Risk Assessment|Asset vulnerabilities are identified and documented|CA-05|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-2|Risk Assessment|Threat and vulnerability information is received from information sharing forums and sources|SI-05|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-2|Risk Assessment|Threat and vulnerability information is received from information sharing forums and sources|PM-15|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-2|Risk Assessment|Threat and vulnerability information is received from information sharing forums and sources|PM-16|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-3|Risk Assessment|Threats, both internal and external, are identified and documented|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-3|Risk Assessment|Threats, both internal and external, are identified and documented|SI-05|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-3|Risk Assessment|Threats, both internal and external, are identified and documented|PM-16|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-3|Risk Assessment|Threats, both internal and external, are identified and documented|PM-12|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-3|Risk Assessment|Threats, both internal and external, are identified and documented|CA-05|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-4|Risk Assessment|Potential business impacts and likelihoods are identified|RA-02|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-4|Risk Assessment|Potential business impacts and likelihoods are identified|SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.RA|ID.RA-4|Risk Assessment|Potential business impacts and likelihoods are identified|PM-11|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-4|Risk Assessment|Potential business impacts and likelihoods are identified|PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-4|Risk Assessment|Potential business impacts and likelihoods are identified|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-5|Risk Assessment|Threats, vulnerabilities, likelihoods, and impacts are used to determine risk|RA-02|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-5|Risk Assessment|Threats, vulnerabilities, likelihoods, and impacts are used to determine risk|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-5|Risk Assessment|Threats, vulnerabilities, likelihoods, and impacts are used to determine risk|PM-16|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-5|Risk Assessment|Threats, vulnerabilities, likelihoods, and impacts are used to determine risk|CA-05|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-6|Risk Assessment|Risk responses are identified and prioritized|PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-6|Risk Assessment|Risk responses are identified and prioritized|PM-04|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RA|ID.RA-6|Risk Assessment|Risk responses are identified and prioritized|CA-05|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-1|Risk Management Strategy|Risk management processes are established, managed, and agreed to by organizational stakeholders|PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-1|Risk Management Strategy|Risk management processes are established, managed, and agreed to by organizational stakeholders|CA-06|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-2|Risk Management Strategy|Organizational risk tolerance is determined and clearly expressed|PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-2|Risk Management Strategy|Organizational risk tolerance is determined and clearly expressed|CA-06|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-3|Risk Management Strategy|The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis|SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.RM|ID.RM-3|Risk Management Strategy|The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis|PM-11|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-3|Risk Management Strategy|The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis|PM-08|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.RM|ID.RM-3|Risk Management Strategy|The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis|PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-1|Supply Chain||SA-09|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-1|Supply Chain||SA-12|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.SC|ID.SC-1|Supply Chain||PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-2|Supply Chain||RA-02|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-2|Supply Chain||SA-14|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.SC|ID.SC-2|Supply Chain||SA-12|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.SC|ID.SC-2|Supply Chain||PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-2|Supply Chain||RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-2|Supply Chain||SA-15|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-3|Supply Chain||SA-09|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-3|Supply Chain||SA-12|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.SC|ID.SC-3|Supply Chain||PM-09|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-3|Supply Chain||SA-11|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||AU-02|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||AU-12|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||AU-16|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||SA-09|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||PS-07|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-4|Supply Chain||SA-12|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||CP-04|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||IR-03|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||IR-06|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+IDENTIFY (ID)|ID.SC|ID.SC-5|Supply Chain||IR-09|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-01|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|AC-02|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|AC-07|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|AC-08|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|AC-09|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-02|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-03|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-04|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-05|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-06|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-07|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-08|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-09|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-10|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|IA-11|IDENTIFICATION AND AUTHENTICATION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|SC-17|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-1|Access Control|Identities and credentials are managed for authorized devices and users|AC-22|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-09|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-02|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-03|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-04|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-05|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-06|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-2|Access Control|Physical access to assets is managed and protected|PE-08|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-3|Access Control|Remote access is managed|AC-20|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-3|Access Control|Remote access is managed|AC-17|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-3|Access Control|Remote access is managed|AC-19|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-3|Access Control|Remote access is managed|PE-17|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-3|Access Control|Remote access is managed|SC-15|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-3|Access Control|Remote access is managed|SC-10|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-02|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-03|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-05|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-06|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-10|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-11|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-12|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-14|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-16|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-24|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|SC-02|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|SC-03|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|SC-04|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|PL-04|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-4|Access Control|Access permissions are managed, incorporating the principles of least privilege and separation of duties|AC-22|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-5|Access Control|Network integrity is protected, incorporating network segregation where appropriate|AC-04|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.AC|PR.AC-5|Access Control|Network integrity is protected, incorporating network segregation where appropriate|SC-07|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-1|Awareness and Training|All users are informed and trained |AT-02|AWARENESS AND TRAINING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-1|Awareness and Training|All users are informed and trained |PM-13|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-1|Awareness and Training|All users are informed and trained |AT-04|AWARENESS AND TRAINING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-2|Awareness and Training|Privileged users understand roles & responsibilities |PM-13|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-2|Awareness and Training|Privileged users understand roles & responsibilities |AT-03|AWARENESS AND TRAINING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-2|Awareness and Training|Privileged users understand roles & responsibilities |AT-04|AWARENESS AND TRAINING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-3|Awareness and Training|Third-party stakeholders (e.g., suppliers, customers, partners) understand roles & responsibilities |SA-09|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-3|Awareness and Training|Third-party stakeholders (e.g., suppliers, customers, partners) understand roles & responsibilities |PS-07|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-3|Awareness and Training|Third-party stakeholders (e.g., suppliers, customers, partners) understand roles & responsibilities |SA-16|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.AT|PR.AT-4|Awareness and Training|Senior executives understand roles & responsibilities |PM-13|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-4|Awareness and Training|Senior executives understand roles & responsibilities |AT-03|AWARENESS AND TRAINING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-5|Awareness and Training|Physical and information security personnel understand roles & responsibilities |PM-13|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-5|Awareness and Training|Physical and information security personnel understand roles & responsibilities |AT-03|AWARENESS AND TRAINING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.AT|PR.AT-5|Awareness and Training|Physical and information security personnel understand roles & responsibilities |IR-02|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-1|Data Security|Data-at-rest is protected|MP-08|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.DS|PR.DS-1|Data Security|Data-at-rest is protected|SC-12|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-1|Data Security|Data-at-rest is protected|SC-28|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-2|Data Security|Data-in-transit is protected|SC-12|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-2|Data Security|Data-in-transit is protected|SC-08|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-2|Data Security|Data-in-transit is protected|SC-11|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.DS|PR.DS-3|Data Security|Assets are formally managed throughout removal, transfers, and disposition|CM-08|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-3|Data Security|Assets are formally managed throughout removal, transfers, and disposition|MP-06|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-3|Data Security|Assets are formally managed throughout removal, transfers, and disposition|PE-16|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-4|Data Security|Adequate capacity to ensure availability is maintained|AU-04|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-4|Data Security|Adequate capacity to ensure availability is maintained|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-4|Data Security|Adequate capacity to ensure availability is maintained|SC-05|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|AC-04|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|AC-05|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|AC-06|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SC-07|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SC-08|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|PE-19|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|PS-03|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|PS-06|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SC-13|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SC-31|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SI-10|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-5|Data Security|Protections against data leaks are implemented|SI-11|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-6|Data Security|Integrity checking mechanisms are used to verify software, firmware, and information integrity|SC-16|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.DS|PR.DS-6|Data Security|Integrity checking mechanisms are used to verify software, firmware, and information integrity|SI-07|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-6|Data Security|Integrity checking mechanisms are used to verify software, firmware, and information integrity|SI-10|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-6|Data Security|Integrity checking mechanisms are used to verify software, firmware, and information integrity|SI-11|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.DS|PR.DS-7|Data Security|The development and testing environment(s) are separate from the production environment|CM-02|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-02|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-03|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-04|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-05|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-06|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-07|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|CM-09|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-1|Information Protection Processes and Procedures|A baseline configuration of information technology/industrial control systems is created and maintained|SA-10|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-10|Information Protection Processes and Procedures|Response and recovery plans are tested|CP-04|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-10|Information Protection Processes and Procedures|Response and recovery plans are tested|IR-03|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-10|Information Protection Processes and Procedures|Response and recovery plans are tested|PM-14|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-01|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-07|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-03|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-06|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-02|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-04|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-05|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|PS-08|PERSONNEL SECURITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-11|Information Protection Processes and Procedures|Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)|SA-21|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.IP|PR.IP-12|Information Protection Processes and Procedures|A vulnerability management plan is developed and implemented|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-12|Information Protection Processes and Procedures|A vulnerability management plan is developed and implemented|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-12|Information Protection Processes and Procedures|A vulnerability management plan is developed and implemented|SI-02|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|PL-08|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-12|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-11|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-15|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-10|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-03|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-04|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-08|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SA-17|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SI-12|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SI-13|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SI-14|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SI-16|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-2|Information Protection Processes and Procedures|A System Development Life Cycle to manage systems is implemented|SI-17|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-3|Information Protection Processes and Procedures|Configuration change control processes are in place|CM-03|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-3|Information Protection Processes and Procedures|Configuration change control processes are in place|CM-04|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-3|Information Protection Processes and Procedures|Configuration change control processes are in place|SA-10|SYSTEM AND SERVICES ACQUISITION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-4|Information Protection Processes and Procedures|Backups of information are conducted, maintained, and tested periodically|CP-04|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-4|Information Protection Processes and Procedures|Backups of information are conducted, maintained, and tested periodically|CP-06|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-4|Information Protection Processes and Procedures|Backups of information are conducted, maintained, and tested periodically|CP-09|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-5|Information Protection Processes and Procedures|Policy and regulations regarding the physical operating environment for organizational assets are met|PE-10|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-5|Information Protection Processes and Procedures|Policy and regulations regarding the physical operating environment for organizational assets are met|PE-12|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-5|Information Protection Processes and Procedures|Policy and regulations regarding the physical operating environment for organizational assets are met|PE-13|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-5|Information Protection Processes and Procedures|Policy and regulations regarding the physical operating environment for organizational assets are met|PE-14|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-5|Information Protection Processes and Procedures|Policy and regulations regarding the physical operating environment for organizational assets are met|PE-15|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-5|Information Protection Processes and Procedures|Policy and regulations regarding the physical operating environment for organizational assets are met|PE-18|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.IP|PR.IP-6|Information Protection Processes and Procedures|Data is destroyed according to policy|MP-06|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|PL-02|PLANNING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|PM-06|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-7|Information Protection Processes and Procedures|Protection processes are continuously improved|CA-05|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-8|Information Protection Processes and Procedures|Effectiveness of protection technologies is shared with appropriate parties|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-8|Information Protection Processes and Procedures|Effectiveness of protection technologies is shared with appropriate parties|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-8|Information Protection Processes and Procedures|Effectiveness of protection technologies is shared with appropriate parties|AC-21|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|IR-09|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|PE-17|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|CP-07|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|CP-12|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|CP-13|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.IP|PR.IP-9|Information Protection Processes and Procedures|Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed|IR-07|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.MA|PR.MA-1|Maintenance|Maintenance and repair of organizational assets is performed and logged in a timely manner, with approved and controlled tools|MA-02|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.MA|PR.MA-1|Maintenance|Maintenance and repair of organizational assets is performed and logged in a timely manner, with approved and controlled tools|MA-03|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.MA|PR.MA-1|Maintenance|Maintenance and repair of organizational assets is performed and logged in a timely manner, with approved and controlled tools|MA-05|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.MA|PR.MA-1|Maintenance|Maintenance and repair of organizational assets is performed and logged in a timely manner, with approved and controlled tools|MA-06|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.MA|PR.MA-2|Maintenance|Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access|MA-04|MAINTENANCE|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-02|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-12|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-16|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-04|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-13|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-07|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-01|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-03|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-05|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-08|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-09|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-10|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-11|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-1|Protective Technology|Audit/log records are determined, documented, implemented, and reviewed in accordance with policy|AU-14|Audit and Accountability|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-2|Protective Technology|Removable media is protected and its use restricted according to policy|MP-08|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-2|Protective Technology|Removable media is protected and its use restricted according to policy|MP-02|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-2|Protective Technology|Removable media is protected and its use restricted according to policy|MP-03|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-2|Protective Technology|Removable media is protected and its use restricted according to policy|MP-04|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-2|Protective Technology|Removable media is protected and its use restricted according to policy|MP-05|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-2|Protective Technology|Removable media is protected and its use restricted according to policy|MP-07|MEDIA PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-3|Protective Technology|Access to systems and assets is controlled, incorporating the principle of least functionality|AC-03|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-3|Protective Technology|Access to systems and assets is controlled, incorporating the principle of least functionality|CM-07|CONFIGURATION MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|AC-04|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|CP-08|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|AC-17|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-07|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|AC-18|ACCESS CONTROL|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-19|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-20|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-21|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-22|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-23|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-24|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-25|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-29|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-32|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-36|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-37|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-38|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-39|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-40|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-41|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-43|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity||||
+PROTECT (PR)|PR.PT|PR.PT-4|Protective Technology|Communications and control networks are protected|SC-10|SYSTEM AND COMMUNICATIONS PROTECTION|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+PRIVACY (PV)|PV.AP|PV.AP-01|Authority & Purpose|Authority to collect|AP-01|AUTHORITY AND PURPOSE|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AP|PV.AP-02|Authority & Purpose|Purpose Specification|AP-02|AUTHORITY AND PURPOSE|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-01|Accountability Audit & Risk Assessment|Governance and Privacy Program|AR-01|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-02|Accountability Audit & Risk Assessment|Privacy Impact and Risk Assessment|AR-02|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-03|Accountability Audit & Risk Assessment|Privacy Requirements for Contractors and Service Providers|AR-03|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-04|Accountability Audit & Risk Assessment|Privacy Monitoring and Auditing|AR-04|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-05|Accountability Audit & Risk Assessment|Privacy Awareness and Training|AR-05|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-06|Accountability Audit & Risk Assessment|Privacy Reporting|AR-06|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-07|Accountability Audit & Risk Assessment|Privacy-Enhanced System Design and Development|AR-07|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.AR|PV.AR-08|Accountability Audit & Risk Assessment|Accounting of Disclosures|AR-08|ACCOUNTABILITY, AUDIT, AND RISK MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.DI|PV.DI-1|Data Quality & Integrity|Data Quality|DI-01|DATA QUALITY AND INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.DI|PV.DI-2|Data Quality & Integrity|Data Integrity and Data Integrity Board|DI-02|DATA QUALITY AND INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.DM|PV.DM-1|Data Minimization & Retention|Minimization of Personally Identifiable Information|DM-01|DATA MINIMIZATION AND RETENTION|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.DM|PV.DM-2|Data Minimization & Retention|Data Retention and Disposal|DM-02|DATA MINIMIZATION AND RETENTION|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.DM|PV.DM-3|Data Minimization & Retention|Data Retention and Disposal|DM-03|DATA MINIMIZATION AND RETENTION|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.IP|PV.IP-1|Individual Participation and Redress|Consent|IP-01|INDIVIDUAL PARTICIPATION AND REDRESS|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.IP|PV.IP-2|Individual Participation and Redress|Individual Access|IP-02|INDIVIDUAL PARTICIPATION AND REDRESS|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.IP|PV.IP-3|Individual Participation and Redress|Redress|IP-03|INDIVIDUAL PARTICIPATION AND REDRESS|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.IP|PV.IP-4|Individual Participation and Redress|Complaint Management|IP-04|INDIVIDUAL PARTICIPATION AND REDRESS|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.SE|PV.SE-1|Security|Inventory of Personally Identifiable Information|SE-01|SECURITY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.SE|PV.SE-2|Security|Privacy Incident Response|SE-02|SECURITY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.TR|PV.TR-1|Transparency|Privacy Notice|TR-01|TRANSPARENCY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.TR|PV.TR-2|Transparency|System of Records Notices and Privacy Act Statements|TR-02|TRANSPARENCY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.TR|PV.TR-3|Transparency|Dissemination of Privacy Program Information|TR-03|TRANSPARENCY|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.UL|PV.UL-1|Use Limitation|Internal Use|UL-01|USE LIMITATION|SP 800-53 Rev. 4|Cybersecurity||||
+PRIVACY (PV)|PV.UL|PV.UL-2|Use Limitation|Information Sharing with Third Parties|UL-02|USE LIMITATION|SP 800-53 Rev. 4|Cybersecurity||||
+RECOVER (RC)|RC.CO|RC.CO-3|Communications|Recovery activities are communicated to internal stakeholders and executive and management teams|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RECOVER (RC)|RC.CO|RC.CO-3|Communications|Recovery activities are communicated to internal stakeholders and executive and management teams|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.IM|RC.IM-1|Improvements|Recovery plans incorporate lessons learned|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RECOVER (RC)|RC.IM|RC.IM-1|Improvements|Recovery plans incorporate lessons learned|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.IM|RC.IM-1|Improvements|Recovery plans incorporate lessons learned|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.IM|RC.IM-2|Improvements|Recovery strategies are updated|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RECOVER (RC)|RC.IM|RC.IM-2|Improvements|Recovery strategies are updated|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.IM|RC.IM-2|Improvements|Recovery strategies are updated|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.RP|RC.RP-1|Recovery Planning|Recovery plan is executed during or after an event|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.RP|RC.RP-1|Recovery Planning|Recovery plan is executed during or after an event|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RECOVER (RC)|RC.RP|RC.RP-1|Recovery Planning|Recovery plan is executed during or after an event|CP-10|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-1|Analysis|Notifications from detection systems are investigated |AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-1|Analysis|Notifications from detection systems are investigated |SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-1|Analysis|Notifications from detection systems are investigated |CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-1|Analysis|Notifications from detection systems are investigated |IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-1|Analysis|Notifications from detection systems are investigated |PE-06|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-1|Analysis|Notifications from detection systems are investigated |IR-05|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-2|Analysis|The impact of the incident is understood|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-2|Analysis|The impact of the incident is understood|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-3|Analysis|Forensics are performed|AU-07|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity|||Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-3|Analysis|Forensics are performed|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-4|Analysis|Incidents are categorized consistent with response plans|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-4|Analysis|Incidents are categorized consistent with response plans|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-4|Analysis|Incidents are categorized consistent with response plans|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.AN|RS.AN-4|Analysis|Incidents are categorized consistent with response plans|IR-05|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-1|Communications|Personnel know their roles and order of operations when a response is needed|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-1|Communications|Personnel know their roles and order of operations when a response is needed|IR-03|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes||Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-1|Communications|Personnel know their roles and order of operations when a response is needed|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-1|Communications|Personnel know their roles and order of operations when a response is needed|CP-03|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-2|Communications|Events are reported consistent with established criteria|AU-06|AUDIT AND ACCOUNTABILITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-2|Communications|Events are reported consistent with established criteria|IR-06|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-2|Communications|Events are reported consistent with established criteria|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|SI-04|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|CA-02|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-3|Communications|Information is shared consistent with response plans|PE-06|PHYSICAL AND ENVIRONMENTAL PROTECTION|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-4|Communications|Coordination with stakeholders occurs consistent with response plans|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-4|Communications|Coordination with stakeholders occurs consistent with response plans|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-4|Communications|Coordination with stakeholders occurs consistent with response plans|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-5|Communications|Voluntary information sharing occurs with external stakeholders to achieve broader cybersecurity situational awareness |SI-05|SYSTEM AND INFORMATION INTEGRITY|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.CO|RS.CO-5|Communications|Voluntary information sharing occurs with external stakeholders to achieve broader cybersecurity situational awareness |PM-15|PROGRAM MANAGEMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.IM|RS.IM-1|Improvements|Response plans incorporate lessons learned|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.IM|RS.IM-1|Improvements|Response plans incorporate lessons learned|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.IM|RS.IM-1|Improvements|Response plans incorporate lessons learned|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.IM|RS.IM-2|Improvements|Response strategies are updated|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.IM|RS.IM-2|Improvements|Response strategies are updated|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.IM|RS.IM-2|Improvements|Response strategies are updated|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.MI|RS.MI-1|Mitigation|Incidents are contained|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.MI|RS.MI-2|Mitigation|Incidents are mitigated|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.MI|RS.MI-3|Mitigation|Newly identified vulnerabilities are mitigated or documented as accepted risks|CA-07|ASSESSMENT, AUTHORIZATION, AND MONITORING|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.MI|RS.MI-3|Mitigation|Newly identified vulnerabilities are mitigated or documented as accepted risks|RA-03|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.MI|RS.MI-3|Mitigation|Newly identified vulnerabilities are mitigated or documented as accepted risks|RA-05|RISK ASSESSMENT|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.RP|RS.RP-1|Response Planning|Response plan is executed during or after an event|CP-02|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
+RESPOND (RS)|RS.RP|RS.RP-1|Response Planning|Response plan is executed during or after an event|IR-04|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.RP|RS.RP-1|Response Planning|Response plan is executed during or after an event|IR-08|INCIDENT RESPONSE|SP 800-53 Rev. 4|Cybersecurity|Yes|Yes|Yes|Yes
+RESPOND (RS)|RS.RP|RS.RP-1|Response Planning|Response plan is executed during or after an event|CP-10|CONTINGENCY PLANNING|SP 800-53 Rev. 4|Cybersecurity||Yes|Yes|Yes
